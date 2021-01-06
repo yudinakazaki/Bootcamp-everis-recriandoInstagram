@@ -10,4 +10,4 @@ Esse projeto foi criado como uma prática para o Bootcamp Everis com o intuito d
 
 ### Autor:
 
-Yudi Nakazaki - [Github](www.github.com/yudinakazaki)
+Yudi Nakazaki - [Github](https://www.github.com/yudinakazaki)
